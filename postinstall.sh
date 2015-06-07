@@ -7,7 +7,7 @@
 # Version : 1.0 - Initial Version
 
 # Set up log file, folder and function
-LOGFOLDER="/var/log"
+LOGFOLDER="/var/log/organisation"
 LOG=$LOGFOLDER"/McAfee-Install.log"
 
 if [ ! -d "$LOGFOLDER" ];
